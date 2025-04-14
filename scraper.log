@@ -1,0 +1,4 @@
+2025-04-14 10:38:52,745 - INFO - Scraping started
+2025-04-14 10:38:53,624 - INFO - Data saved to scraped_data.csv with 10 entries
+2025-04-14 10:38:53,639 - INFO - Data saved to scraped_jobs.html
+2025-04-14 10:38:53,640 - INFO - Scraping completed
